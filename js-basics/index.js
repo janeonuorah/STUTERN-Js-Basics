@@ -1,8 +1,8 @@
-// function Multiply() {
-//     return ("5*8");
-// }
+function Multiply() {
+    return (5 * 8);
+}
 
-// console.log((Multiply()));
+console.log((Multiply()));
 
 let firstName = "Onyinyechi ";
 let lastName = "Onuorah";
